@@ -20,9 +20,11 @@
     <preference name="SplashScreenDelay" value="0" />
     <platform name="android">
         <icon src="www/icon.png" />
+        <preference name="OverrideUserAgent" value="Mozilla/5.0 (Linux; Android) Phonegap/9.0.0" />
     </platform>
     <platform name="ios">
         <icon src="www/icon.png" />
+        <preference name="OverrideUserAgent" value="Mozilla/5.0 (Apple; iOS) Phonegap/9.0.0" />
         <icon height="1024" width="1024" src="www/icon.png" />
         <icon height="152" width="152" src="www/apple-icon-152.png" />
         <icon height="120" width="120" src="www/apple-icon-120.png" />
