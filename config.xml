@@ -2,7 +2,7 @@
 <widget id="xyz.phibonacci.kairos" version="2.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Kairos</name>
     <description>
-        Prioritze tasks based on urgency.
+        Prioritize tasks based on urgency.
     </description>
     <author email="support@phibonacci-creativo.com" href="http://www.phibonacci-creativo.com">
         Phibonacci Creativo
